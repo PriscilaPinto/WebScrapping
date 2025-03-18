@@ -18,8 +18,8 @@ O fórum de coleta de dados escolhito foi o Adrenaline para esse projeto.
 Primeiro, clone o repositório para sua máquina local:
 
 ```bash
-git clone <https://github.com/PriscilaPinto/WebScrapping.git>
-cd <trabalho_pyhton>
+git clone https://github.com/PriscilaPinto/WebScrapping.git
+cd trabalho_pyhton
 ```
 
 ### 2. Instalar as dependências
