@@ -18,8 +18,8 @@ O fórum de coleta de dados escolhito foi o Adrenaline para esse projeto.
 Primeiro, clone o repositório para sua máquina local:
 
 ```bash
-git clone <url-do-repositorio>
-cd <nome-do-repositorio>
+git clone <https://github.com/PriscilaPinto/WebScrapping.git>
+cd <trabalho_pyhton>
 ```
 
 ### 2. Instalar as dependências
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ### 3. Executar o contêiner do MongoDB
 
 Para armazenar os dados coletados, vamos usar um banco de dados MongoDB. 
-Execute o contêiner Docker do MongoDB:
+Suba o contêiner com o comando:
 
 ```bash
 docker run --name forum_mongo -d -p 27017:27017 mongo
